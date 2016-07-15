@@ -16,3 +16,17 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+form {
+  input {
+    margin-bottom: 1.5em;
+    width: 520px;
+    border-color:inherit;
+  }
+  textarea {
+    width: 520px;
+    height: 300px;
+    margin-bottom: 1.5em;
+    border-color: inherit;
+  }
+}
